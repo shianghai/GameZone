@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://c5-rfn.shanghai.gamezone.exp.direct",
+  "packagerNgrokUrl": "https://packager.c5-rfn.shanghai.gamezone.exp.direct",
+  "ngrokPid": 2300,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
